@@ -1,0 +1,2 @@
+# Advanced-Bayesian-Optimization-for-Hyperparameter-Tuning-of-Deep-Neural-Networks
+Bayesian Optimization pipeline for tuning deep neural network hyperparameters using Gaussian Processes. Includes a PyTorch baseline model, defined search space, acquisition functions, convergence analysis, and performance comparison against Random Search. Outputs final optimized hyperparameters and validation metrics.

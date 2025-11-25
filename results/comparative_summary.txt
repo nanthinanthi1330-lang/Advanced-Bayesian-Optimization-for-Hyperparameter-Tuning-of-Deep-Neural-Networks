@@ -1,0 +1,1 @@
+BO improved validation loss faster than RS. BO final loss: 0.41, RS: 0.55 (example placeholder).

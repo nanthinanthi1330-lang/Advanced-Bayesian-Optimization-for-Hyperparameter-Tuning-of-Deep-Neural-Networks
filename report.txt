@@ -1,4 +1,0 @@
-Report Placeholder
-- Objective function defined as validation loss (cross-validated).
-- Search space: LR, batch size, dropout, filters, epochs.
-- Acquisition function: Expected Improvement.
